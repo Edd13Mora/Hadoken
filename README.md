@@ -5,8 +5,9 @@
 
 `Hadoken` is a versatile bash script designed for network scanning and enumeration. Harnessing the power of various well-known security tools, `Hadoken` simplifies the scanning process and collates the results into an easily readable HTML report. Perfect for penetration testers and system administrators looking to evaluate the security posture of their networks.
 
-![Banner or Screenshot](url-to-image-if-you-have-one)
-
+![Banner or Screenshot](https://raw.githubusercontent.com/Edd13Mora/Hadoken/main/demo1.png)
+![Banner or Screenshot](https://raw.githubusercontent.com/Edd13Mora/Hadoken/main/demo2.png)
+![Banner or Screenshot](https://raw.githubusercontent.com/Edd13Mora/Hadoken/main/demo3.png)
 ## Features
 
 - Multiple scan types: `ping`, `quick`, `smb`, `classic`, `full`, `udp`.
@@ -29,3 +30,15 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/Edd13Mora/Hadoken.git
    cd hadoken
+   chmod +x dependencies.sh
+   ./dependencies.sh
+   chmod +x hadoken.sh
+   ```
+## Usage
+```bash
+./hadoken.sh -i <IP_ADDRESS> [-s SCAN_TYPE] [-u USERNAME] [-p PASSWORD]
+```
+## For detailed options and usage:
+```bash
+./hadoken.sh --help
+```
