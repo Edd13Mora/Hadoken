@@ -9,8 +9,9 @@
 - Multiple scan types: `ping`, `quick`, `smb`, `classic`, `full`, `udp`.
 - Generates comprehensive HTML reports.
 - Integrated credential checking.
-- User enumeration capabilities with Kerbrute and LDAP.
-- ... (Any other features you want to highlight).
+- User enumeration capabilities with Kerbrute.
+- As-rep roastable users.
+- LDAP Enumeration
 
 ## Prerequisites
 
