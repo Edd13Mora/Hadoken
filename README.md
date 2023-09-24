@@ -25,15 +25,14 @@ Before you begin, ensure you have met the following requirements:
 - Required tools and packages (all dependencies are listed in `dependencies.sh`).
 
 ## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Edd13Mora/Hadoken.git
-   cd hadoken
-   chmod +x dependencies.sh
-   ./dependencies.sh
-   chmod +x hadoken.sh
-   ```
+Clone this repository:
+```bash
+git clone https://github.com/Edd13Mora/Hadoken.git
+cd hadoken
+chmod +x dependencies.sh
+./dependencies.sh
+chmod +x hadoken.sh
+```
 ## Usage
 ```bash
 ./hadoken.sh -i <IP_ADDRESS> [-s SCAN_TYPE] [-u USERNAME] [-p PASSWORD]
