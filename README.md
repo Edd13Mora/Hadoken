@@ -1,4 +1,4 @@
-# Hadoken.sh
+# Hadoken
 <p align="center">
   <img src="https://raw.githubusercontent.com/Edd13Mora/Hadoken/main/a22d71635456ea129dede0d4651bd553-removebg-preview.png">
 </p>
