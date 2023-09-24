@@ -24,5 +24,5 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/hadoken.git
+   git clone https://github.com/Edd13Mora/Hadoken.git
    cd hadoken
